@@ -1,0 +1,27 @@
+body {
+	background-color: #455062;
+	text-align: center;
+}
+#name {
+	color: white;
+	font-family: "Courier New", monospace;
+}
+.title {
+	background-color: rgba(213, 166, 166, 0.69);
+	font-size:40px;
+}
+
+#proDevLinks {
+	width:450px;
+	height:350px;
+	background-color: white;
+	float: inside;
+}
+a:link {
+	color: #613942;
+	font-size:35px;
+}
+a:visited {
+	color: #d5a6a6;
+	font-size:30px;
+}
