@@ -1,5 +1,5 @@
-body {
-	background-color: #455062;
+#indexBody {
+	background-color:#091914 ;
 	text-align: center;
 }
 #name {
@@ -7,21 +7,26 @@ body {
 	font-family: "Courier New", monospace;
 }
 .title {
-	background-color: rgba(213, 166, 166, 0.69);
+	width:1200px;
+	height:200px;
+	background-color: #dac0c1;
 	font-size:40px;
+	float: left;
+	margin-left:200px;
 }
 
 #proDevLinks {
-	width:450px;
-	height:350px;
+	width:1200px;
+	height:515px;
 	background-color: white;
-	float: inside;
+	float: left;
+	margin-left:200px;
 }
 a:link {
-	color: #613942;
-	font-size:35px;
+	color: rgba(120, 57, 66, 0.78);
+	font-size:40px;
 }
 a:visited {
-	color: #d5a6a6;
-	font-size:30px;
+	color: #783942;
+	font-size:40px;
 }
